@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "401280705073",
+    "firebase_url": "https://lab-firebase-2020.firebaseio.com",
+    "project_id": "lab-firebase-2020",
+    "storage_bucket": "lab-firebase-2020.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:401280705073:android:84deeaeff1431f5b496b10",
+        "android_client_info": {
+          "package_name": "com.example.labfirebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "401280705073-oefoga431suecae2v45k780t0ahuv9n5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBvEUeqmX1UGBloeX1wxnmFscTVO3WrL0M"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "401280705073-oefoga431suecae2v45k780t0ahuv9n5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
